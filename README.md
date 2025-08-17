@@ -86,17 +86,4 @@ python {entrypoint}
 
 ---
 
-### Testing
-
-Object-and-line-detection-using-machine-learning uses the **pytest** framework. Run the test suite with:
-
-Using **conda**:
-
-```bash
-conda activate {venv}
-pytest
-```
-
----
-
 
